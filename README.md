@@ -4,13 +4,13 @@ A simple React application that allows users to increment or decrement a counter
 
 Features
 
-Increment and Decrement Buttons: Allows users to increase or decrease the displayed number.
+-Increment and Decrement Buttons: Allows users to increase or decrease the displayed number.
 
-Random Color Generation: Each displayed number is accompanied by a randomly generated background color.
+-Random Color Generation: Each displayed number is accompanied by a randomly generated background color.
 
-Responsive UI: Designed with Flexbox for an intuitive layout.
+-Responsive UI: Designed with Flexbox for an intuitive layout.
 
-Alert on Decrement: Prevents the counter from going below zero and shows an alert.
+-Alert on Decrement: Prevents the counter from going below zero and shows an alert.
 
 Screenshot
 
@@ -18,16 +18,16 @@ Screenshot
 
 Usage
 
-Up Button: Increases the count by 1.
+-Up Button: Increases the count by 1.
 
-Down Button: Decreases the count by 1 (alerts if count is already 0).
+-Down Button: Decreases the count by 1 (alerts if count is already 0).
 
-The numbers are displayed with a randomly generated background color.
+-The numbers are displayed with a randomly generated background color.
 
 Technologies Used
 
-React: For building the UI and managing the state.
+-React: For building the UI and managing the state.
 
-JavaScript (ES6+): For functional programming concepts and state management.
+-JavaScript (ES6+): For functional programming concepts and state management.
 
-CSS: For basic styling of the app.
+-CSS: For basic styling of the app.
