@@ -8,7 +8,8 @@ Random Color Generation: Each displayed number is accompanied by a randomly gene
 Responsive UI: Designed with Flexbox for an intuitive layout.
 Alert on Decrement: Prevents the counter from going below zero and shows an alert.
 
-Screenshots
+Screenshot
+
 ![image](https://github.com/user-attachments/assets/ca5a2a6d-8f77-4ea7-b2b2-4d7fb655c8cc)
 
 Usage
