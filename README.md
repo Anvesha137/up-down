@@ -1,13 +1,11 @@
-Up-Down App
+Up-Down App - 
+
 A simple React application that allows users to increment or decrement a counter, demonstrating the use of React hooks (useState) and dynamic rendering.
 
 Features
 Increment and Decrement Buttons: Allows users to increase or decrease the displayed number.
-
 Random Color Generation: Each displayed number is accompanied by a randomly generated background color.
-
 Responsive UI: Designed with Flexbox for an intuitive layout.
-
 Alert on Decrement: Prevents the counter from going below zero and shows an alert.
 
 Screenshots
